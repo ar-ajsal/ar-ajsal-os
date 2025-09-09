@@ -63,9 +63,9 @@ export function Window({ id, title, isActive, zIndex, onClose, onFocus }: Window
       case "about":
         return (
           <div className="p-6">
-            <h2 className="text-2xl font-bold mb-4">About Joan</h2>
+            <h2 className="text-2xl font-bold mb-4">About ar ajsal</h2>
             <p className="text-muted-foreground leading-relaxed">
-              Welcome to Joan OS - a retro-futuristic desktop experience that brings together classic computing
+              Welcome to  OS - a retro-futuristic desktop experience that brings together classic computing
               aesthetics with modern web technologies. This interface showcases my work and projects in an interactive,
               nostalgic environment.
             </p>
@@ -96,15 +96,15 @@ export function Window({ id, title, isActive, zIndex, onClose, onFocus }: Window
             <div className="space-y-3">
               <div className="flex items-center gap-3">
                 <span className="text-lg">📧</span>
-                <span>joan@example.com</span>
+                <span>@example.com</span>
               </div>
               <div className="flex items-center gap-3">
                 <span className="text-lg">🐙</span>
-                <span>github.com/joan</span>
+                <span>github.com/ar-ajsal</span>
               </div>
               <div className="flex items-center gap-3">
                 <span className="text-lg">💼</span>
-                <span>linkedin.com/in/joan</span>
+                <span>linkedin.com/in/a-r-ajsal</span>
               </div>
             </div>
           </div>
